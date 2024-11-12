@@ -1,3 +1,4 @@
+# TUGAS PRAKTIKUM 4
 # Data Diri
 
 Nama : Muhammad Aziz Tri Ramadhan
@@ -15,7 +16,10 @@ Kelas : TI,24.A.3
 
 <img src="outputpraktikum4.png">
 
-# TUGAS PRAKTIKUM 4
+## flowchart
+
+<img src="flowchartprak4.png">
+
 
 # 1. Fungsi `hitung_nilai_akhir(tugas, uts, uas)`:
 ```python
