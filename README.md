@@ -1,4 +1,4 @@
-# TUGAS PRAKTIKUM 4
+# TUGAS PRAKTIKUM 5
 # Data Diri
 
 Nama : Muhammad Aziz Tri Ramadhan
@@ -7,18 +7,18 @@ NIM : 312410380
 
 Kelas : TI,24.A.3
 
-# input dan outpu dari Praktikum 4
+# input dan outpu dari Praktikum 5
 ## input
 
-<img src="praktikum4.png">
+<img src="praktikum5.png">
 
 ## output
 
-<img src="outputpraktikum4.png">
+<img src="outputpraktikum5.png">
 
 ## flowchart
 
-<img src="flowchartprak4.png">
+<img src="flowchartprak5.png">
 
 
 # 1. Fungsi `hitung_nilai_akhir(tugas, uts, uas)`:
