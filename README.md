@@ -13,7 +13,9 @@ Kelas : TI,24.A.3
 
 ## output
 
-<img scr="outputpraktikum4.png">
+<img src="outputpraktikum4.png">
+
+# TUGAS PRAKTIKUM 4
 
 # 1. Fungsi `hitung_nilai_akhir(tugas, uts, uas)`:
 ```python
