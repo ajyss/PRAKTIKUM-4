@@ -9,12 +9,11 @@ Kelas : TI,24.A.3
 # input dan outpu dari Praktikum 4
 ## input
 
-<img src="praktikum 4.png">
+<img src="praktikum4.png">
 
 ## output
 
-
-<img scr="outputpraktikum 4.png">
+<img scr="outputpraktikum4.png">
 
 # 1. Fungsi `hitung_nilai_akhir(tugas, uts, uas)`:
 ```python
