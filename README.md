@@ -13,6 +13,7 @@ Kelas : TI,24.A.3
 
 ## output
 
+
 <img scr="outputpraktikum 4.png">
 
 # 1. Fungsi `hitung_nilai_akhir(tugas, uts, uas)`:
